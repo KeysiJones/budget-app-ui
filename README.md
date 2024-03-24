@@ -1,8 +1,5 @@
-# React + Vite
+# Budget App UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a mobile app UI based on [Md shahin alam's design](https://www.figma.com/file/TLwpzD03SphLw3pbnZ2auC/Budget-planer-app-%26-Finance-App-(Community)?type=design&node-id=1022-299&mode=design&t=KtSMEc1zZdXWJgbx-0) built with React and TailwindCSS
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Credits: [Md shahin alam](https://www.figma.com/@uishahin)
