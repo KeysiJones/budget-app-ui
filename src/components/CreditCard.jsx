@@ -4,10 +4,10 @@ import VisaLogo from './VisaLogo';
 
 const CreditCard = ({ balance }) => (
   <div className='relative flex bg-[#37474F] p-5 rounded-xl w-full max-w-96 min-w-72'>
-    <div className='flex flex-col gap-y-12'>
-      <div className='flex flex-col gap-y-2 text-[#b3b3b3]'>
-        <p className='text-sm'>Available balance</p>
-        <p className='text-xl font-semibold text-white'>{balance}</p>
+    <div className='flex flex-col gap-y-10'>
+      <div className='flex flex-col gap-y-2'>
+        <p className='text-sm text-[#b3b3b3]'>Available balance</p>
+        <p className='text-2xl font-bold text-white'>{balance}</p>
       </div>
       <p className='text-sm font-semibold text-white'>See details</p>
     </div>
