@@ -5,7 +5,7 @@ const BottomMenu = () => (
     viewBox='0 0 375 94'
     fill='none'
     xmlns='http://www.w3.org/2000/svg'
-    className='rounded-b-2xl'
+    className='sm:rounded-b-2xl'
   >
     <g filter='url(#filter0_d_1022_517)'>
       <path
